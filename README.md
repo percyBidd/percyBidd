@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @percyBidd
 - 👀 I’m interested in everything that makes stuff works, im a geek in that reguards
 - 🌱 I’m currently learning REACT MVC ASP.net NODEJS
-
+### My stats looks bad but my usage is all in private repos. 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=percyBidd&show_icons=true&theme=dark"
